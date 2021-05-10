@@ -2,6 +2,8 @@
 
 🔍 Replace emojis from string or string[]
 
+![](https://img.shields.io/npm/v/replace-emoji?style=flat-square)
+
 ## Usage
 
 ```bash
