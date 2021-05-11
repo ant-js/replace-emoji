@@ -2,7 +2,7 @@
 
 🔍 Replace emojis from string or string[]
 
-![](https://img.shields.io/npm/v/replace-emoji?style=flat-square)
+[![](https://img.shields.io/npm/v/replace-emoji?style=flat-square)](https://www.npmjs.com/package/replace-emoji)
 
 ## Usage
 
