@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "build": "father-build",
-    "prettier": "prettier --write \"**/*.{js,jsx,tsx,ts,less,md,json}\"",
+    "format": "prettier --write \"**/*.{js,jsx,tsx,ts,less,md,json}\"",
     "prepublishOnly": "npm run build && np --yolo --no-publish",
     "lint": "eslint src/ --ext .tsx,.ts",
     "all": "npm run build && npm run lint"
