@@ -15,7 +15,7 @@ yarn add replace-emoji
 ```js
 import replaceEmoji from 'replace-emoji';
 // or
-const { replaceEmoji } = require('replaceEmoji');
+const { replaceEmoji } = require('replace-emoji');
 
 replaceEmoji('🤖123'); // => 123
 replaceEmoji('🤖123', '6'); // => 6123
