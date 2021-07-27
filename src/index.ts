@@ -8,7 +8,7 @@ export type StringOrStrings = string | string[];
  * @param s The string or strings to be replaced
  * @param r The content to be replaced
  * @param reg Customize RegExp
- * @returns Replaced result
+ * @returns The replaced result
  */
 const replaceEmoji = (
   s: StringOrStrings,
